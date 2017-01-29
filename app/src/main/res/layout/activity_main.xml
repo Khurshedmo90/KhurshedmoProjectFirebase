@@ -62,15 +62,4 @@
             android:id="@+id/grantsText" />
     </ScrollView>
 
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/grantDescription"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="34dp"
-        android:layout_marginStart="34dp"
-        android:id="@+id/button2" />
-
 </RelativeLayout>
