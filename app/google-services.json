@@ -1,0 +1,53 @@
+{
+  "project_info": {
+    "project_number": "19366488169",
+    "firebase_url": "https://khursheda-catalog.firebaseio.com",
+    "project_id": "khursheda-catalog",
+    "storage_bucket": "khursheda-catalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19366488169:android:826357fb88a2165f",
+        "android_client_info": {
+          "package_name": "com.example.acer01.khurshedmoprojectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19366488169-getbgnhpsl2tjdg9r0tk2mquqruqhn5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer01.khurshedmoprojectfirebase",
+            "certificate_hash": "F35BD0555FEE48419CF14C21AC13DCEF9CB8CCE6"
+          }
+        },
+        {
+          "client_id": "19366488169-ldslhlpbvan1fhq9dk52d1ehlqlo3kia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyC9twajfmqbY4P_SdFN4QuJi0vVnv3fbzw"
+      }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19366488169-ldslhlpbvan1fhq9dk52d1ehlqlo3kia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
